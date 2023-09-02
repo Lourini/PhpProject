@@ -1,0 +1,13 @@
+
+<center><table class='table table2'> 
+<tr><td> Nom & Prénom lourini othmane</td> 
+<td> Ville : El jadida/Maroc</td></tr> 
+<tr><td>Msg</td><td>2020-05-10__23-48-43</td></tr> 
+<tr><td> hello </td><td></td></tr> 
+</table></center> 
+<center><table class='table table2'> 
+<tr><td> Nom & Prénom lourini othmane</td> 
+<td> Ville : El jadida/Maroc</td></tr> 
+<tr><td>Msg</td><td>2020-05-11__00-01-47</td></tr> 
+<tr><td> hello!! </td><td></td></tr> 
+</table></center> 
